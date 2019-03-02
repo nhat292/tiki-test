@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test-tiki</string>
+
+    <string name="na">N/A</string>
+    <string name="hot_key">Từ khóa hot</string>
+    <string name="hot_key_empty">Không có từ khóa hot</string>
+    <string name="error">Lỗi</string>
+</resources>

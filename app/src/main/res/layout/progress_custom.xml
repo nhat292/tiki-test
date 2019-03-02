@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_progress"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_gravity="center"
+    android:background="@drawable/progressdialog">
+
+    <ProgressBar
+        android:id="@+id/pgress_id"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@drawable/custom_progress_dialog" />
+
+    <TextView
+        android:id="@+id/tv_message_progess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pgress_id"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dp"
+        android:text="Loading..."
+        android:textColor="#666666"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

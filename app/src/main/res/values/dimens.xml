@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Margin padding-->
+    <dimen name="margin_padding_very_very_large">40dp</dimen>
+    <dimen name="margin_padding_very_large">30dp</dimen>
+    <dimen name="margin_padding_large">20dp</dimen>
+    <dimen name="margin_padding_normal">10dp</dimen>
+    <dimen name="margin_padding_small">5dp</dimen>
+    <dimen name="margin_padding_very_small">3dp</dimen>
+    <dimen name="margin_padding_very_large_minus">-30dp</dimen>
+    <dimen name="margin_padding_large_minus">-20dp</dimen>
+    <dimen name="margin_padding_normal_minus">-10dp</dimen>
+    <dimen name="margin_padding_small_minus">-5dp</dimen>
+    <dimen name="margin_padding_very_small_minus">-3dp</dimen>
+
+    <!--Text size-->
+    <dimen name="text_size_very_huge">30sp</dimen>
+    <dimen name="text_size_huge">26sp</dimen>
+    <dimen name="text_size_very_large">23sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_normal">15sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_very_small">11sp</dimen>
+    <dimen name="text_size_tiny">8sp</dimen>
+
+    <dimen name="item_keyword_min_height">80dp</dimen>
+</resources>
